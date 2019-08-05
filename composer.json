@@ -2,8 +2,6 @@
 	"name": "webengine-blueprints/empty",
 	"description": "A blueprint with only the necessary files in place.",
 
-	"minimum-stability": "dev",
-
 	"require": {
 		"phpgt/webengine": "dev-master"
 	},
