@@ -782,16 +782,16 @@
         },
         {
             "name": "phpgt/domtemplate",
-            "version": "v1.2.4",
+            "version": "v1.2.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PhpGt/DomTemplate.git",
-                "reference": "4f38cd404cabee0f98b4d355b7a45b5ba3ceb872"
+                "reference": "14b91d9f0646a7690e09fef104abd6b031ff043a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PhpGt/DomTemplate/zipball/4f38cd404cabee0f98b4d355b7a45b5ba3ceb872",
-                "reference": "4f38cd404cabee0f98b4d355b7a45b5ba3ceb872",
+                "url": "https://api.github.com/repos/PhpGt/DomTemplate/zipball/14b91d9f0646a7690e09fef104abd6b031ff043a",
+                "reference": "14b91d9f0646a7690e09fef104abd6b031ff043a",
                 "shasum": ""
             },
             "require": {
@@ -813,7 +813,7 @@
                 "MIT"
             ],
             "description": "Bind dynamic data to reusable HTML components.",
-            "time": "2019-09-18T09:19:06+00:00"
+            "time": "2019-09-19T10:03:00+00:00"
         },
         {
             "name": "phpgt/fetch",
@@ -1097,12 +1097,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/PhpGt/WebEngine.git",
-                "reference": "7495b0b3283ea59f55badf7f84f10d1445eb9ad7"
+                "reference": "6cae52e8d8832ed637a0ba9875e36bb766cc7211"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PhpGt/WebEngine/zipball/7495b0b3283ea59f55badf7f84f10d1445eb9ad7",
-                "reference": "7495b0b3283ea59f55badf7f84f10d1445eb9ad7",
+                "url": "https://api.github.com/repos/PhpGt/WebEngine/zipball/6cae52e8d8832ed637a0ba9875e36bb766cc7211",
+                "reference": "6cae52e8d8832ed637a0ba9875e36bb766cc7211",
                 "shasum": ""
             },
             "require": {
@@ -1158,7 +1158,7 @@
                 "webengine",
                 "webservice"
             ],
-            "time": "2019-09-17T09:06:10+00:00"
+            "time": "2019-09-19T07:51:36+00:00"
         },
         {
             "name": "psr/http-client",
